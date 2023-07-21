@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chiragchavda07/MyPortfolio.git/static/css/main.6b8a9381.css",
+    "main.js": "/chiragchavda07/MyPortfolio.git/static/js/main.3aee426e.js",
+    "static/js/787.1f11dfe9.chunk.js": "/chiragchavda07/MyPortfolio.git/static/js/787.1f11dfe9.chunk.js",
+    "static/media/MyImage.jpg": "/chiragchavda07/MyPortfolio.git/static/media/MyImage.0d3345926668322303c3.jpg",
+    "index.html": "/chiragchavda07/MyPortfolio.git/index.html",
+    "main.6b8a9381.css.map": "/chiragchavda07/MyPortfolio.git/static/css/main.6b8a9381.css.map",
+    "main.3aee426e.js.map": "/chiragchavda07/MyPortfolio.git/static/js/main.3aee426e.js.map",
+    "787.1f11dfe9.chunk.js.map": "/chiragchavda07/MyPortfolio.git/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b8a9381.css",
+    "static/js/main.3aee426e.js"
+  ]
+}
